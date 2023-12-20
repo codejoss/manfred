@@ -79,29 +79,6 @@
           "type": "technology"
         }
       }
-    ],
-    "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso de React.JS",
-        "startDate": "2023-10-01",
-        "institution": {
-          "name": "Platzi",
-          "description": "Diploma del Curso de React.js obtenido a través de la plataforma de Platzi\n\nID de la Credencial: 9936c881-e6ad-4fed-9001-095c7eba1785",
-          "URL": "https://platzi.com/p/quevedoportas/curso/7395-react/diploma/detalle/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/39988319-cd78-44cf-bab2-af29d950dba2_platzi.png",
-            "alt": "platzi.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      }
     ]
   },
   "careerPreferences": {
