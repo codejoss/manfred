@@ -109,7 +109,7 @@
         "startDate": "2023-10-01",
         "institution": {
           "name": "Platzi",
-          "description": "Curso de React.Js tomado a través de la plataforma digital Platzi, en el cual aprendi lo siguiente:\n\n1. Crear aplicaciones web interactivas utilizando React.js.\n2. Dominar el uso de componentes, props y estilos CSS en React.js.\n3. Manejar el estado de manera profesional en tus aplicaciones, ya sea utilizando estados independientes o compuestos.\n4. Conocer los patrones de render más importantes de React.js, como render props, high order components y react hooks.\n5. Implementar funcionalidades avanzadas en tus aplicaciones, como react context, react portals y almacenamiento con local storage.\n\nId de la Credencial: 9936c881-e6ad-4fed-9001-095c7eba1785",
+          "description": "Curso de React.Js tomado a través de la plataforma digital Platzi, en el cual aprendi lo siguiente:\n\n- Crear aplicaciones web interactivas utilizando React.js.\n- Dominar el uso de componentes, props y estilos CSS en React.js.\n- Manejar el estado de manera profesional en tus aplicaciones, ya sea utilizando estados independientes o compuestos.\n- Conocer los patrones de render más importantes de React.js, como render props, high order components y react hooks.\n- Implementar funcionalidades avanzadas en tus aplicaciones, como react context, react portals y almacenamiento con local storage.\n\nId de la Credencial: 9936c881-e6ad-4fed-9001-095c7eba1785",
           "URL": "https://platzi.com/p/quevedoportas/curso/7395-react/diploma/detalle/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/44b70acf-0f12-4415-a7c2-d7c06642b1e9_toqvz4wg1.png",
