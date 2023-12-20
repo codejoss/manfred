@@ -10,8 +10,8 @@
       "surnames": "Quevedo Portas",
       "title": "Web Developer",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/410b04d6-5d7f-4776-9d21-cc468cc88d5f_linkedin-photo-9290.linkedin-photo-9290",
-        "alt": "23/12/20/410b04d6-5d7f-4776-9d21-cc468cc88d5f_linkedin-photo-9290.linkedin-photo-9290"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/13780925-0458-48c9-9c8d-946d6d08cece_linkedin-photo-9290.linkedin-photo-9290",
+        "alt": "23/12/20/13780925-0458-48c9-9c8d-946d6d08cece_linkedin-photo-9290.linkedin-photo-9290"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJy7PhrlCB6YURpKXNqVlhN-M)",
@@ -78,6 +78,25 @@
           "name": "React",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de React.JS",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Diploma del Curso de React.js obtenido a través de la plataforma de Platzi\n\nID de la Credencial: 9936c881-e6ad-4fed-9001-095c7eba1785",
+          "URL": "https://platzi.com/p/quevedoportas/curso/7395-react/diploma/detalle/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
