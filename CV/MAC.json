@@ -84,6 +84,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Básico de Programación Orientada a Objetos con JavaScript",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Id de la credencial: e7010d37-a0d2-4dfb-8bcb-a810927f041b",
+          "URL": "https://platzi.com/p/quevedoportas/curso/2332-javascript-poo/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/0d27fa51-565f-49be-9f6a-62aabb516bee_toqvz4wg1.png",
+            "alt": "tOQVZ4wG1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de React.JS",
         "startDate": "2023-10-01",
         "institution": {
