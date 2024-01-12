@@ -105,6 +105,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Profesional de Scrum",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Curso donde aprendí los fundamentos esenciales de esta metodología ágil ampliamente utilizada en el desarrollo de proyectos, exploré los principios básicos de Scrum, comprendí los roles como Product Owner, Scrum Master y Equipo de Desarrollo, aprendí a organizar el trabajo en sprints, adquirí habilidades para planificar y ejecutar proyectos mediante la creación y gestión del backlog, además me familiaricé con ceremonias como las reuniones de planificación de sprint, revisiones y retrospectivas.\n\nID de la credencial:\ne7298142-1cd0-47c1-bafe-b2aaa9467f32",
+          "URL": "https://platzi.com/p/quevedoportas/curso/1750-scrum/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/bb95b13e-a1e0-4499-8df1-5e903a3e95f3_toqvz4wg1.png",
+            "alt": "tOQVZ4wG1.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de Introducción al Testing con JavaScript",
         "startDate": "2024-01-01",
         "institution": {
