@@ -134,6 +134,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso de Manipulación de Arrays en JavaScript",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Curso de Manipulación de Arrays en JavaScript, adquiriendo conocimientos esenciales para trabajar eficientemente con esta estructura de datos en el desarrollo web, desde declarar e inicializar arrays hasta acceder y modificar elementos, aprendí métodos clave como push, pop, shift, unshift, splice y slice, facilitando la manipulación eficiente de elementos, además de utilizar métodos de iteración como forEach, map, filter y reduce para operaciones rápidas en cada elemento del array.\n\n\nID de la credencial:\na910ffdd-a6b8-4e92-8e5b-6fee3c256667",
+          "URL": "https://platzi.com/p/quevedoportas/curso/2461-arrays/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/464a4cb7-8a8c-4c77-b6e0-8a2ae3274a01_toqvz4wg1.png",
+            "alt": "tOQVZ4wG1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de React.JS",
         "startDate": "2023-10-01",
         "institution": {
