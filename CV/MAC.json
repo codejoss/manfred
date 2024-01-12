@@ -536,6 +536,10 @@
         {
           "name": ".Net Core",
           "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
