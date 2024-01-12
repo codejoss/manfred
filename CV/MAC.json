@@ -494,6 +494,10 @@
         {
           "name": "VanillaJS",
           "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
