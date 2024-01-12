@@ -120,6 +120,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso de Closures y Scope en JavaScript",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Curso en el que se estudiaron los alcances de variables en JavaScript, abordando el scope global y local y su impacto en la visibilidad de variables, viendo la declaración de variables con const, let y var y comprendiendo sus diferencias y aplicaciones específicas, así como también aprendí a encapsular datos y funcionalidades, lo cual me ayuda a escribir código más limpio y eficiente.\n\nID de la credencial:\n46cd9fcf-c5b2-4615-a24c-96397ed3f7bf",
+          "URL": "https://platzi.com/p/quevedoportas/curso/3213-javascript-closures-scope/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/2da3daf5-4484-4fbe-9af7-9c04d9f6392a_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de Introducción al Testing con JavaScript",
         "startDate": "2024-01-01",
         "institution": {
