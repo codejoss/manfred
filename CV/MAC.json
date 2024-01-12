@@ -149,6 +149,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso de Asincronismo con JavaScript",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Curso en el que aprendí el uso del event loop y la gestión eficiente de tareas en segundo plano, exploré estructuras de control asincrónico como callbacks, promises y async/await, evitando el temido callback hell, así también dominé funciones asíncronas haciendo uso de los promises y a manejar errores y realizar paralelismo. Este curso me proporcionó las bases para usar asincronismo en aplicaciones web modernas, vital para interactuar con APIs, gestionar eventos y cargar contenido dinámico.\n\nID de la credencial:\n45df369d-c92c-4440-8554-ac7267caeec2",
+          "URL": "https://platzi.com/p/quevedoportas/curso/3175-asincronismo-js/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/25402bda-927d-4a5e-bbc2-52022b1f0fdc_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de Closures y Scope en JavaScript",
         "startDate": "2023-03-01",
         "institution": {
