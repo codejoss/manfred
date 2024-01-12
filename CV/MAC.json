@@ -450,6 +450,12 @@
           "name": "Atención al detalle",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
       }
     ]
   },
