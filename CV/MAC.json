@@ -120,6 +120,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Práctico de JavaScript",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "ID de la credencial:\n4fe10de 1-58cd-4e55-9105-d7722d39dfb9",
+          "URL": "https://platzi.com/p/quevedoportas/curso/3271-javascript-practico/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/c7c9f526-85b5-400b-8c1e-657426150508_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de API REST con Javascript: Fundamentos",
         "startDate": "2023-01-01",
         "institution": {
