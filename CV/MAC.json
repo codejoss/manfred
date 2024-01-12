@@ -408,6 +408,39 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en programación",
+        "startDate": "2002-08-01",
+        "institution": {
+          "name": "Centro de Estudios Ténicos Insdustriales y de Servicios 79",
+          "description": "Estudio de bachillerato.\n",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/701643a2-238c-4eac-87db-006c6b42bb2f_imagotipo_dgeti.png",
+            "alt": "Imagotipo_DGETI.png"
+          }
+        },
+        "finishDate": "2005-06-01",
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
