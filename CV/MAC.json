@@ -496,6 +496,10 @@
           "type": "technology"
         },
         {
+          "name": "JSON",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         },
