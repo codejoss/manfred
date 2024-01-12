@@ -84,6 +84,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Básico de JavaScript",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "ID de la credencial:\n5a584621-b8fb-478-9e07-5cc8648ad16d",
+          "URL": "https://platzi.com/p/quevedoportas/curso/1814-basico-javascript/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/816a98af-5c97-4fcf-8adf-909611436942_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso Básico de Programación Orientada a Objetos con JavaScript",
         "startDate": "2023-04-01",
         "institution": {
