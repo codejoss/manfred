@@ -120,6 +120,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso de API REST con Javascript: Fundamentos",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Curso con el que adquirí habilidades esenciales en el consumo de APIs en JavaScript, comprendí la dinámica de las API REST y su interacción desde el lado del cliente, exploré el flujo de comunicación Frontend-Backend comprendiendo los métodos HTTP y cómo manejar solicitudes y respuestas, ademas de dominar la función fetch para solicitudes asincrónicas aprendiendo a enviar parámetros y manejar respuestas.",
+          "URL": "https://platzi.com/p/quevedoportas/curso/2985-api/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/aec3b2cb-a554-4b9f-adb9-12e63aaeecd2_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de Closures y Scope en JavaScript",
         "startDate": "2023-03-01",
         "institution": {
