@@ -488,6 +488,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "VanillaJS",
           "type": "technology"
         }
