@@ -512,6 +512,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "VanillaJS",
           "type": "technology"
         },
