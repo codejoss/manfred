@@ -443,6 +443,14 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
