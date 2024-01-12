@@ -488,10 +488,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "AngularJS",
-          "type": "technology"
-        },
-        {
           "name": "NextJS",
           "type": "technology"
         },
