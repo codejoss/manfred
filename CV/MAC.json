@@ -486,6 +486,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "VanillaJS",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
