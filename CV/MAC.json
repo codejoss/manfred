@@ -151,6 +151,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Profesional de Git y GitHub",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "ID de la credencial:\nd508f3a4-82c8-445b-9139-169126e1c4e9",
+          "URL": "https://platzi.com/p/quevedoportas/curso/1557-git-github/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/85b05358-2d15-4c52-9ee0-7ac083d0061a_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso Profesional de Scrum",
         "startDate": "2023-03-01",
         "institution": {
