@@ -141,6 +141,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Práctico de Frontend Developer",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "ID de la credencial:\n7cae9506-37bc-418b-bdb2-f76914ef76bd",
+          "URL": "https://platzi.com/p/quevedoportas/curso/2477-frontend-developer-practico/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/a1153c64-a4be-4c34-8435-64cf914e3733_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso Práctico de JavaScript",
         "startDate": "2022-12-01",
         "institution": {
