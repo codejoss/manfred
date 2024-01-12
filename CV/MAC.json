@@ -126,6 +126,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso Definitivo de HTML y CSS",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "ID de la credencial:\nde9a994d-821e-46f3-a60e-32c0680b63bf",
+          "URL": "https://platzi.com/p/quevedoportas/curso/2008-html-css/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/8a6ece80-dfca-4d28-ae6d-edf010875d4e_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso Profesional de Scrum",
         "startDate": "2023-03-01",
         "institution": {
