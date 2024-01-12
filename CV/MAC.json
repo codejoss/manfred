@@ -9,6 +9,7 @@
       "name": "Josue",
       "surnames": "Quevedo Portas",
       "title": "Web Developer",
+      "description": "Soy un programador apasionado del desarrollo de software, mi conocimiento actual se basa en el desarrollo web front-end pero tengo un gran entusiasmo por aprender también el mundo desafiante y gratificante del desarrollo back-end.\n\nTengo un gusto innato por la tecnología y un firme compromiso con el aprendizaje continuo, mi enfoque autodidacta se ha convertido en el motor que me impulsa a explorar y dominar nuevas habilidades de manera independiente.\n\nDisfruto cada desafío que surge en el campo del desarrollo de software, y mi motivación para aprender nuevas cosas me impulsa constantemente a superar obstáculos y a mantenerme actualizado en un entorno que evoluciona rápidamente.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/20/13780925-0458-48c9-9c8d-946d6d08cece_linkedin-photo-9290.linkedin-photo-9290",
         "alt": "23/12/20/13780925-0458-48c9-9c8d-946d6d08cece_linkedin-photo-9290.linkedin-photo-9290"
@@ -466,8 +467,7 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Frontend Developer",
-        "Full-stack Developer"
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
