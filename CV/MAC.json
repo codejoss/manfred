@@ -532,6 +532,10 @@
         {
           "name": ".NET",
           "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
