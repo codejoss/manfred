@@ -312,6 +312,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Curso de Frontend Developer",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "ID de la credencial:\nec03fad6-5fbf-437d-8244-780e8e752ca7",
+          "URL": "https://platzi.com/p/quevedoportas/curso/2467-frontend-developer/diploma/detalle/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/b93191c3-1546-4ba3-a9cf-311d7073c902_platzi-logo.png",
+            "alt": "platzi-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Curso de Introducción al Testing con JavaScript",
         "startDate": "2024-01-01",
         "institution": {
